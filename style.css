@@ -44,7 +44,14 @@ main {
     color: #f0ede5;
     text-decoration: none;
 }
-
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img {
+    height: 50px;
+    border-radius: 50px;
+}
 .main-header .logo span {
     color: #d4a373;
 }

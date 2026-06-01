@@ -12,6 +12,7 @@
 <header class="main-header">
     <div class="container header-container">
         <div class="logo">
+            <img src=".\\img/logo.png">
             <a href="index.php">Бобр <span>Строитель</span></a>
         </div>
         <nav class="main-nav">
